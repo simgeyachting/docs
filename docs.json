@@ -12,52 +12,52 @@
     "dark": "#0050B4"
   },
   "theme": "mint",
-  "navigation": {
-    "content": {
+  "navigation": [
+    {
+      "group": "Ana Sayfa",
       "pages": [
-        {
-          "title": "Ana Sayfa",
-          "pages": ["ana-sayfa"]
-        },
-        {
-          "title": "Tekne Turları",
-          "pages": [
-            "tekne-turlari",
-            "tekne-turlari/gunluk-tekne-turlari",
-            "tekne-turlari/ozel-tekne-turlari",
-            "tekne-turlari/mavi-yolculuk"
-          ]
-        },
-        {
-          "title": "Yat Kiralama",
-          "pages": [
-            "yat-kiralama",
-            "yat-kiralama/luks-yat-kiralama"
-          ]
-        },
-        {
-          "title": "Destinasyonlar",
-          "pages": [
-            "destinasyonlar",
-            "destinasyonlar/yalikavak-koylari",
-            "destinasyonlar/bodrum-koylari",
-            "destinasyonlar/gokova-koylari"
-          ]
-        },
-        {
-          "title": "Hizmetlerimiz",
-          "pages": [
-            "hizmetlerimiz",
-            "hizmetlerimiz/transfer-hizmetleri",
-            "hizmetlerimiz/catering-hizmetleri",
-            "hizmetlerimiz/ozel-organizasyonlar"
-          ]
-        },
-        {
-          "title": "İletişim",
-          "pages": ["iletisim"]
-        }
+        "ana-sayfa"
+      ]
+    },
+    {
+      "group": "Tekne Turları",
+      "pages": [
+        "tekne-turlari",
+        "tekne-turlari/gunluk-tekne-turlari",
+        "tekne-turlari/ozel-tekne-turlari",
+        "tekne-turlari/mavi-yolculuk"
+      ]
+    },
+    {
+      "group": "Yat Kiralama",
+      "pages": [
+        "yat-kiralama",
+        "yat-kiralama/luks-yat-kiralama"
+      ]
+    },
+    {
+      "group": "Destinasyonlar",
+      "pages": [
+        "destinasyonlar",
+        "destinasyonlar/yalikavak-koylari",
+        "destinasyonlar/bodrum-koylari",
+        "destinasyonlar/gokova-koylari"
+      ]
+    },
+    {
+      "group": "Hizmetlerimiz",
+      "pages": [
+        "hizmetlerimiz",
+        "hizmetlerimiz/transfer-hizmetleri",
+        "hizmetlerimiz/catering-hizmetleri",
+        "hizmetlerimiz/ozel-organizasyonlar"
+      ]
+    },
+    {
+      "group": "İletişim",
+      "pages": [
+        "iletisim"
       ]
     }
-  }
+  ]
 }
