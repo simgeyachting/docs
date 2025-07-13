@@ -1,6 +1,5 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
   "name": "Simge Yachting",
   "logo": {
     "light": "/logo/light.svg",
@@ -8,14 +7,57 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373"
+    "primary": "#0069ED",
+    "light": "#4D9CFF",
+    "dark": "#0050B4"
   },
+  "theme": "mint",
   "navigation": {
-    "name": "Get Started",
-    "pages": [
-      "introduction"
-    ]
+    "content": {
+      "pages": [
+        {
+          "title": "Ana Sayfa",
+          "pages": ["ana-sayfa"]
+        },
+        {
+          "title": "Tekne Turları",
+          "pages": [
+            "tekne-turlari",
+            "tekne-turlari/gunluk-tekne-turlari",
+            "tekne-turlari/ozel-tekne-turlari",
+            "tekne-turlari/mavi-yolculuk"
+          ]
+        },
+        {
+          "title": "Yat Kiralama",
+          "pages": [
+            "yat-kiralama",
+            "yat-kiralama/luks-yat-kiralama"
+          ]
+        },
+        {
+          "title": "Destinasyonlar",
+          "pages": [
+            "destinasyonlar",
+            "destinasyonlar/yalikavak-koylari",
+            "destinasyonlar/bodrum-koylari",
+            "destinasyonlar/gokova-koylari"
+          ]
+        },
+        {
+          "title": "Hizmetlerimiz",
+          "pages": [
+            "hizmetlerimiz",
+            "hizmetlerimiz/transfer-hizmetleri",
+            "hizmetlerimiz/catering-hizmetleri",
+            "hizmetlerimiz/ozel-organizasyonlar"
+          ]
+        },
+        {
+          "title": "İletişim",
+          "pages": ["iletisim"]
+        }
+      ]
+    }
   }
 }

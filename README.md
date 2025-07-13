@@ -30,3 +30,25 @@ Install our Github App to auto propagate changes from your repo to your deployme
 
 - If the dev environment isn't running - Run `mint update` to ensure you have the most recent version of the CLI.
 - Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+
+# Proje Adı
+
+Bu proje için temel açıklamalar ve kurulum adımları.
+
+## Kurulum
+
+```bash
+npm install
+```
+
+## Geliştirme
+
+```bash
+npm run dev
+```
+
+## Test
+
+```bash
+npm test
+```
