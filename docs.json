@@ -2,14 +2,14 @@
   "$schema": "https://mintlify.com/docs.json",
   "name": "Simge Yachting",
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/yeni-logo-light.svg",
+    "dark": "/images/yeni-logo-dark.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0069ED",
-    "light": "#4D9CFF",
-    "dark": "#0050B4"
+    "primary": "#1D4ED8",
+    "light": "#3B82F6",
+    "dark": "#1E3A8A"
   },
   "theme": "mint",
   "navigation": [
