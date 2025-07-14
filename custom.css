@@ -1,0 +1,12 @@
+.mintlify__logo img, .logo img, .nav-logo, .nav-logo img {
+  max-height: 157px !important;
+  height: 67px !important;
+  width: auto !important;
+}
+
+/* Eğer logonun konumunu değiştirmek isterseniz örnek:
+.mintlify__logo {
+  margin-top: 16px !important;
+  margin-bottom: 16px !important;
+}
+*/
