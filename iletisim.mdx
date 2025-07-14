@@ -1,8 +1,68 @@
 ---
 title: "İletişim"
-description: "Simge Yachting iletişim sayfası."
+description: "Bizimle iletişime geçin. Rezervasyon ve sorularınız için telefon, e-posta veya iletişim formunu kullanabilirsiniz."
 ---
 
-# İletişim
+import { Card, Cards } from 'mintlify';
 
-Bu sayfa henüz hazırlanmadı.
+# Bize Ulaşın
+
+**Hayalinizdeki tekne turunu planlamak veya sorularınızı sormak için bize aşağıdaki kanallardan kolayca ulaşabilirsiniz.** Ekibimiz en kısa sürede size geri dönüş yapacaktır.
+
+<Cards>
+  <Card
+    title="WhatsApp"
+    icon="whatsapp"
+    body="Hızlı iletişim ve rezervasyon için: +90 532 681 74 63"
+  />
+  <Card
+    title="E-posta Gönderin"
+    icon="envelope"
+    body="Tüm sorularınız ve kurumsal talepleriniz için: info@simgeyachting.com"
+  />
+  <Card
+    title="Konumumuz"
+    icon="location-dot"
+    body="Yalıkavak, Bodrum, Muğla, Türkiye"
+  />
+</Cards>
+
+---
+
+## İletişim Formu
+
+Aşağıdaki formu doldurarak da bize doğrudan mesaj gönderebilirsiniz.
+
+<Frame>
+  <form action="https://formspree.io/f/xanbwpap" method="POST">
+    <label>
+      Adınız Soyadınız:
+      <input type="text" name="name" required>
+    </label>
+    <label>
+      E-posta Adresiniz:
+      <input type="email" name="email" required>
+    </label>
+    <label>
+      Mesajınız:
+      <textarea name="message" required></textarea>
+    </label>
+    <button type="submit">Gönder</button>
+  </form>
+</Frame>
+
+---
+
+## Teknemizin Konumu
+
+Teknemiz Yalıkavak limanında bulunmaktadır. Ziyaret etmek isterseniz lütfen önceden randevu alınız.
+
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12747.557734495737!2d27.28236305!3d37.1037661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14beaf94b3f3a8c7%3A0x8f3b3d6b6b3b3b3b!2sYal%C4%B1kavak%2C%20Bodrum%2FMu%C4%9Fla!5e0!3m2!1str!2str!4v1689342233123!5m2!1str!2str" 
+  width="100%" 
+  height="450" 
+  style={{ border:0 }} 
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
