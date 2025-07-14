@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "name": "Simge Yachting",
+  "name": "Simge Yachting Yalikavak",
   "logo": {
     "light": "/logo/simge_light_logo.png",
     "dark": "/logo/simge_dark_logo.jpg"
@@ -9,7 +9,7 @@
   "colors": {
     "primary": "#1D4ED8",
     "light": "#3B82F6",
-    "dark": "#000519"
+    "dark": "#04041C"
   },
   "theme": "mint",
   "navigation": {
@@ -18,16 +18,6 @@
       "group": "Ana Sayfa",
       "pages": [
         "ana-sayfa"
-      ]
-    },
-    {
-      "group": "Belgeler",
-      "pages": [
-
-
-
-
-        "snippets/snippet-intro"
       ]
     },
     {
