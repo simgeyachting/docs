@@ -2,14 +2,14 @@
   "$schema": "https://mintlify.com/docs.json",
   "name": "Simge Yachting Yalikavak",
   "logo": {
-    "light": "/logo/simge_light_logo.png",
-    "dark": "/logo/simge_dark_logo.jpg"
+    "light": "/logo/simge-light-logo.png",
+    "dark": "/logo/simge-dark-logo.png"
   },
   "favicon": "/favicon.ico",
   "colors": {
     "primary": "#1D4ED8",
     "light": "#3B82F6",
-    "dark": "#04041C"
+    "dark": "#040404"
   },
   "theme": "mint",
   "navigation": {
