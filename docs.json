@@ -12,6 +12,10 @@
     "dark": "#040404"
   },
   "theme": "mint",
+  "metadata": {
+    "description": "Simge Yachting ile Bodrum Yalıkavak'ta unutulmaz günlük ve haftalık tekne turları. Size özel rotalar ve lüks yat kiralama seçenekleriyle mavi yolculuk deneyimini keşfedin.",
+    "keywords": ["Yalıkavak tekne turu", "Bodrum yat kiralama", "günlük tekne turu", "haftalık mavi yolculuk", "Simge Yachting"]
+  },
   "navigation": {
     "groups": [
     {
