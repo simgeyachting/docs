@@ -28,7 +28,10 @@
       "group": "Tekne Turları",
       "pages": [
         "tekne-turlari",
-        "tekne-turlari/gunluk-tekne-turlari"
+        "tekne-turlari/gunluk-tekne-turlari",
+        "tekne-turlari/mavi-yolculuk",
+        "tekne-turlari/ozel-tekne-turlari",
+        "tekne-turlari/mehtap-turlari"
       ]
     },
     {
@@ -46,7 +49,8 @@
         "destinasyonlar/bodrum-koylari",
         "destinasyonlar/gokova-koylari",
         "destinasyonlar/bodrum-limanlari",
-        "destinasyonlar/bodrum-adalari"
+        "destinasyonlar/bodrum-adalari",
+        "destinasyonlar/yunan-adalari-turlari"
       ]
     },
     {
@@ -55,7 +59,8 @@
         "hizmetlerimiz",
         "hizmetlerimiz/transfer-hizmetleri",
         "hizmetlerimiz/catering-hizmetleri",
-        "hizmetlerimiz/ozel-organizasyonlar"
+        "hizmetlerimiz/ozel-organizasyonlar",
+        "hizmetlerimiz/amanruya"
       ]
     },
     {
