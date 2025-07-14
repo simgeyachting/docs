@@ -12,7 +12,8 @@
     "dark": "#1E3A8A"
   },
   "theme": "mint",
-  "navigation": [
+  "navigation": {
+    "groups": [
     {
       "group": "Ana Sayfa",
       "pages": [
@@ -20,12 +21,20 @@
       ]
     },
     {
+      "group": "Belgeler",
+      "pages": [
+
+
+
+
+        "snippets/snippet-intro"
+      ]
+    },
+    {
       "group": "Tekne Turları",
       "pages": [
         "tekne-turlari",
-        "tekne-turlari/gunluk-tekne-turlari",
-        "tekne-turlari/ozel-tekne-turlari",
-        "tekne-turlari/mavi-yolculuk"
+        "tekne-turlari/gunluk-tekne-turlari"
       ]
     },
     {
@@ -59,5 +68,6 @@
         "iletisim"
       ]
     }
-  ]
+    ]
+  }
 }
