@@ -5,7 +5,7 @@
     "light": "/logo/simge_light_logo.png",
     "dark": "/logo/simge_dark_logo.jpg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.ico",
   "colors": {
     "primary": "#1D4ED8",
     "light": "#3B82F6",
