@@ -16,8 +16,16 @@
   "tabs": [
    {
     "tab": "Ana Sayfa",
+    "icon": "house",
     "pages": [
      "ana-sayfa"
+    ]
+   },
+   {
+    "tab": "Teknemiz",
+    "icon": "sailboat",
+    "pages": [
+     "teknemiz/teknemiz"
     ]
    },
    {
