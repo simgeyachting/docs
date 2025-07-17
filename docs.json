@@ -12,63 +12,63 @@
     "dark": "#040404"
   },
   "theme": "mint",
-  "navigation": {
-    "groups": [
-    {
-      "group": "Ana Sayfa",
-      "pages": [
-        "ana-sayfa"
-      ]
-    },
-    {
-      "group": "Tekne Turları",
-      "pages": [
-        "tekne-turlari",
-        "tekne-turlari/gunluk-tekne-turlari",
-        "tekne-turlari/mavi-yolculuk",
-        "tekne-turlari/ozel-tekne-turlari",
-        "tekne-turlari/mehtap-turlari"
-      ]
-    },
-    {
-      "group": "Yat Kiralama",
-      "pages": [
-        "yat-kiralama",
-        "yat-kiralama/luks-yat-kiralama"
-      ]
-    },
-    {
-      "group": "Destinasyonlar",
-      "pages": [
-        "destinasyonlar",
-        "destinasyonlar/yalikavak-koylari",
-        "destinasyonlar/bodrum-koylari",
-        "destinasyonlar/gokova-koylari",
-        "destinasyonlar/bodrum-limanlari",
-        "destinasyonlar/bodrum-adalari",
-        "destinasyonlar/yunan-adalari-turlari"
-      ]
-    },
-    {
-      "group": "Hizmetlerimiz",
-      "pages": [
-        "hizmetlerimiz",
-        "hizmetlerimiz/ozel-organizasyonlar",
-        "hizmetlerimiz/amanruya"
-      ]
-    },
-    {
-      "group": "İletişim",
-      "pages": [
-        "iletisim"
-      ]
-    },
-    {
-      "group": "Sözlük",
-      "pages": [
-        "glossary"
-      ]
-    }
+ "navigation": {  
+  "tabs": [
+   {
+    "tab": "Ana Sayfa",
+    "pages": [
+     "ana-sayfa"
     ]
-  }
+   },
+   {
+    "tab": "Tekne Turları",
+    "pages": [
+     "tekne-turlari",
+     "tekne-turlari/gunluk-tekne-turlari",
+     "tekne-turlari/mavi-yolculuk",
+     "tekne-turlari/ozel-tekne-turlari",
+     "tekne-turlari/mehtap-turlari"
+    ]
+   },
+   {
+    "tab": "Yat Kiralama",
+    "pages": [
+     "yat-kiralama",
+     "yat-kiralama/luks-yat-kiralama"
+    ]
+   },
+   {
+    "tab": "Destinasyonlar",
+    "pages": [
+     "destinasyonlar",
+     "destinasyonlar/yalikavak-koylari",
+     "destinasyonlar/bodrum-koylari",
+     "destinasyonlar/gokova-koylari",
+     "destinasyonlar/bodrum-limanlari",
+     "destinasyonlar/bodrum-adalari",
+     "destinasyonlar/yunan-adalari-turlari"
+    ]
+   },
+   {
+    "tab": "Hizmetlerimiz",
+    "pages": [
+     "hizmetlerimiz",
+     "hizmetlerimiz/ozel-organizasyonlar",
+     "hizmetlerimiz/amanruya"
+    ]
+   },
+   {
+    "tab": "İletişim",
+    "pages": [
+     "iletisim"
+    ]
+   },
+   {
+    "tab": "Sözlük",
+    "pages": [
+     "glossary"
+    ]
+   }
+  ]
+ }
 }
