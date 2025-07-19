@@ -8,7 +8,7 @@ layout: "docs"
 
 Simge Yachting ailesinin göz bebeği olan **Gulet Simge**, geleneksel Türk guletlerinin zarafetini modern lüks ve konforla birleştiren özel bir teknedir. Ege ve Akdeniz'in masmavi sularında unutulmaz bir mavi yolculuk deneyimi için tasarlanan teknemiz, siz değerli misafirlerimize ev konforunu denizin üzerinde sunuyor.
 
-![Gulet Simge Dış Görünüş](/images/tekne/gulet-simge-dis.jpg "Gulet Simge'nin Mavi Sulardaki Görünüşü")
+![Gulet Simge Dış Görünüş](/images/hero-dark.png "Gulet Simge'nin Mavi Sulardaki Görünüşü")
 
 ## Teknik Özellikler
 
@@ -38,7 +38,7 @@ Klimalı geniş salonumuzda rahat oturma grupları, TV, müzik sistemi ve yemek 
 ### Güverteler
 Teknemizin geniş güverte alanları, güneşin ve denizin tadını çıkarmak için idealdir. Ön güvertede geniş güneşlenme minderleri, arka güvertede ise gölgelik altında büyük bir yemek masası ve rahat bir oturma alanı yer almaktadır. Gün batımını izlemek için en sevdiğiniz köşe burası olacak.
 
-![Gulet Simge Güverte](/images/tekne/gulet-simge-guverte.jpg "Geniş ve Konforlu Güverte Alanı")
+![Gulet Simge Güverte](/images/hero-dark.png "Geniş ve Konforlu Güverte Alanı")
 
 ## Ekipman ve Aktiviteler
 
