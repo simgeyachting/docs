@@ -25,13 +25,13 @@
     "tab": "Teknemiz",
     "icon": "sailboat",
     "pages": [
-     "teknemiz/teknemiz"
+     "teknemiz"
     ]
    },
    {
     "tab": "Tekne Turları",
     "pages": [
-     "tekne-turlari",
+     "tekne-turlari/index",
      "tekne-turlari/gunluk-tekne-turlari",
      "tekne-turlari/mavi-yolculuk",
      "tekne-turlari/ozel-tekne-turlari",
