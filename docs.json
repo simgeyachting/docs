@@ -25,7 +25,9 @@
     "tab": "Teknemiz",
     "icon": "sailboat",
     "pages": [
-     "teknemiz"
+     "teknemiz/index",
+     "teknemiz/resim-galerisi",
+     "teknemiz/menu"
     ]
    },
    {
@@ -35,7 +37,8 @@
      "tekne-turlari/gunluk-tekne-turlari",
      "tekne-turlari/mavi-yolculuk",
      "tekne-turlari/ozel-tekne-turlari",
-     "tekne-turlari/mehtap-turlari"
+     "tekne-turlari/mehtap-turlari",
+     "tekne-turlari/yemekli-tekne-turlari"
     ]
    },
    {
