@@ -49,4 +49,11 @@ Sadece tekneyle ulaşılabilen bu cennet, turkuaz sular ve yeşilliklerle çevri
 
 ✅ Gurme Deneyim: Antik manzaralarda özel hazırlanmış yemek keyfi
 
+---
+
+> **📱 Hemen Rezervasyon Yapın**
+>
+> WhatsApp: [+90 532 681 74 63](https://wa.me/905326817463?utm_source=boat.simgeyachting.com&utm_medium=docs&utm_campaign=whatsapp-cta&utm_content=tekne-turlari-arkeoloji-rotalar)
+> Telefon: +90 532 681 74 63
+> [İletişim Sayfası →](/iletisim)
 
