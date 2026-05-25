@@ -12,88 +12,161 @@
     "dark": "#040404"
   },
   "theme": "mint",
- "navigation": {  
-  "tabs": [
-   {
-    "tab": "Ana Sayfa",
-    "icon": "house",
-    "pages": [
-     "ana-sayfa"
+  "navigation": {
+    "languages": [
+      {
+        "language": "tr",
+        "default": true,
+        "tabs": [
+          {
+            "tab": "Ana Sayfa",
+            "icon": "house",
+            "pages": ["ana-sayfa"]
+          },
+          {
+            "tab": "Teknemiz",
+            "icon": "sailboat",
+            "pages": [
+              "teknemiz/index",
+              "teknemiz/resim-galerisi",
+              "teknemiz/menu",
+              "teknemiz/deniz-urunleri"
+            ]
+          },
+          {
+            "tab": "Tekne Turları",
+            "pages": [
+              "tekne-turlari/index",
+              "tekne-turlari/gunluk-tekne-turlari",
+              "tekne-turlari/mavi-yolculuk",
+              "tekne-turlari/rotalar",
+              "tekne-turlari/ozel-tekne-turlari",
+              "tekne-turlari/mehtap-turlari",
+              "tekne-turlari/yemekli-tekne-turlari",
+              "tekne-turlari/fiyatlar"
+            ]
+          },
+          {
+            "tab": "Yat Kiralama",
+            "pages": [
+              "yat-kiralama",
+              "yat-kiralama/luks-yat-kiralama"
+            ]
+          },
+          {
+            "tab": "Destinasyonlar",
+            "pages": [
+              "destinasyonlar",
+              "destinasyonlar/yalikavak-koylari",
+              "destinasyonlar/bodrum-koylari",
+              "destinasyonlar/gokova-koylari",
+              "destinasyonlar/bodrum-limanlari",
+              "destinasyonlar/bodrum-adalari",
+              "destinasyonlar/kocek-adasi",
+              "destinasyonlar/yunan-adalari-turlari",
+              "destinasyonlar/yamac-parasutu",
+              "destinasyonlar/cennet-koyu"
+            ]
+          },
+          {
+            "tab": "Hizmetlerimiz",
+            "pages": [
+              "hizmetlerimiz",
+              "hizmetlerimiz/ozel-organizasyonlar",
+              "hizmetlerimiz/amanruya"
+            ]
+          },
+          {
+            "tab": "Müşteri Yorumları",
+            "icon": "star",
+            "pages": ["musteri-yorumlari"]
+          },
+          {
+            "tab": "İletişim",
+            "pages": ["iletisim"]
+          },
+          {
+            "tab": "Sözlük",
+            "pages": ["glossary"]
+          }
+        ]
+      },
+      {
+        "language": "en",
+        "tabs": [
+          {
+            "tab": "Home",
+            "icon": "house",
+            "pages": ["en/ana-sayfa"]
+          },
+          {
+            "tab": "Our Yacht",
+            "icon": "sailboat",
+            "pages": [
+              "en/teknemiz/index",
+              "en/teknemiz/resim-galerisi",
+              "en/teknemiz/menu",
+              "en/teknemiz/deniz-urunleri"
+            ]
+          },
+          {
+            "tab": "Boat Tours",
+            "pages": [
+              "en/tekne-turlari/index",
+              "en/tekne-turlari/gunluk-tekne-turlari",
+              "en/tekne-turlari/mavi-yolculuk",
+              "en/tekne-turlari/rotalar",
+              "en/tekne-turlari/ozel-tekne-turlari",
+              "en/tekne-turlari/mehtap-turlari",
+              "en/tekne-turlari/yemekli-tekne-turlari",
+              "en/tekne-turlari/fiyatlar"
+            ]
+          },
+          {
+            "tab": "Yacht Charter",
+            "pages": [
+              "en/yat-kiralama",
+              "en/yat-kiralama/luks-yat-kiralama"
+            ]
+          },
+          {
+            "tab": "Destinations",
+            "pages": [
+              "en/destinasyonlar",
+              "en/destinasyonlar/yalikavak-koylari",
+              "en/destinasyonlar/bodrum-koylari",
+              "en/destinasyonlar/gokova-koylari",
+              "en/destinasyonlar/bodrum-limanlari",
+              "en/destinasyonlar/bodrum-adalari",
+              "en/destinasyonlar/kocek-adasi",
+              "en/destinasyonlar/yunan-adalari-turlari",
+              "en/destinasyonlar/yamac-parasutu",
+              "en/destinasyonlar/cennet-koyu"
+            ]
+          },
+          {
+            "tab": "Services",
+            "pages": [
+              "en/hizmetlerimiz",
+              "en/hizmetlerimiz/ozel-organizasyonlar",
+              "en/hizmetlerimiz/amanruya"
+            ]
+          },
+          {
+            "tab": "Reviews",
+            "icon": "star",
+            "pages": ["en/musteri-yorumlari"]
+          },
+          {
+            "tab": "Contact",
+            "pages": ["en/iletisim"]
+          },
+          {
+            "tab": "Glossary",
+            "pages": ["en/glossary"]
+          }
+        ]
+      }
     ]
-   },
-   {
-    "tab": "Teknemiz",
-    "icon": "sailboat",
-    "pages": [
-     "teknemiz/index",
-     "teknemiz/resim-galerisi",
-     "teknemiz/menu",
-     "teknemiz/deniz-urunleri"
-    ]
-   },
-   {
-    "tab": "Tekne Turları",
-    "pages": [
-     "tekne-turlari/index",
-     "tekne-turlari/gunluk-tekne-turlari",
-     "tekne-turlari/mavi-yolculuk",
-     "tekne-turlari/rotalar",
-     "tekne-turlari/ozel-tekne-turlari",
-     "tekne-turlari/mehtap-turlari",
-     "tekne-turlari/yemekli-tekne-turlari",
-     "tekne-turlari/fiyatlar"
-    ]
-   },
-   {
-    "tab": "Yat Kiralama",
-    "pages": [
-     "yat-kiralama",
-     "yat-kiralama/luks-yat-kiralama"
-    ]
-   },
-   {
-    "tab": "Destinasyonlar",
-    "pages": [
-     "destinasyonlar",
-     "destinasyonlar/yalikavak-koylari",
-     "destinasyonlar/bodrum-koylari",
-     "destinasyonlar/gokova-koylari",
-     "destinasyonlar/bodrum-limanlari",
-     "destinasyonlar/bodrum-adalari",
-     "destinasyonlar/kocek-adasi",
-     "destinasyonlar/yunan-adalari-turlari",
-     "destinasyonlar/yamac-parasutu",
-     "destinasyonlar/kisebuku",
-     "destinasyonlar/cennet-koyu"
-    ]
-   },
-   {
-    "tab": "Hizmetlerimiz",
-    "pages": [
-     "hizmetlerimiz",
-     "hizmetlerimiz/ozel-organizasyonlar",
-     "hizmetlerimiz/amanruya"
-    ]
-   },
-   {
-    "tab": "Müşteri Yorumları",
-    "icon": "star",
-    "pages": [
-     "musteri-yorumlari"
-    ]
-   },
-  {
-    "tab": "İletişim",
-    "pages": [
-     "iletisim"
-    ]
-   },
-   {
-    "tab": "Sözlük",
-    "pages": [
-     "glossary"
-    ]
-   }
-  ]
- }
+  }
 }
