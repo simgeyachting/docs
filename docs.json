@@ -43,7 +43,10 @@
               "tekne-turlari/ozel-tekne-turlari",
               "tekne-turlari/mehtap-turlari",
               "tekne-turlari/yemekli-tekne-turlari",
-              "tekne-turlari/fiyatlar"
+              "tekne-turlari/fiyatlar",
+              "tekne-turlari/koylar",
+              "tekne-turlari/tavsiyeler",
+              "tekne-turlari/arkeoloji-rotalar"
             ]
           },
           {
@@ -80,6 +83,11 @@
             "tab": "Müşteri Yorumları",
             "icon": "star",
             "pages": ["musteri-yorumlari"]
+          },
+          {
+            "tab": "Transfer",
+            "icon": "car",
+            "pages": ["chauffeur-service/index"]
           },
           {
             "tab": "İletişim",
@@ -119,7 +127,10 @@
               "en/tekne-turlari/ozel-tekne-turlari",
               "en/tekne-turlari/mehtap-turlari",
               "en/tekne-turlari/yemekli-tekne-turlari",
-              "en/tekne-turlari/fiyatlar"
+              "en/tekne-turlari/fiyatlar",
+              "en/tekne-turlari/koylar",
+              "en/tekne-turlari/tavsiyeler",
+              "en/tekne-turlari/arkeoloji-rotalar"
             ]
           },
           {
@@ -156,6 +167,11 @@
             "tab": "Reviews",
             "icon": "star",
             "pages": ["en/musteri-yorumlari"]
+          },
+          {
+            "tab": "Transfer",
+            "icon": "car",
+            "pages": ["en/chauffeur-service/index"]
           },
           {
             "tab": "Contact",
