@@ -73,6 +73,13 @@
     ]
    },
    {
+    "tab": "Müşteri Yorumları",
+    "icon": "star",
+    "pages": [
+     "musteri-yorumlari"
+    ]
+   },
+  {
     "tab": "İletişim",
     "pages": [
      "iletisim"
