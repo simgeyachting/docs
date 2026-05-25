@@ -37,9 +37,11 @@
      "tekne-turlari/index",
      "tekne-turlari/gunluk-tekne-turlari",
      "tekne-turlari/mavi-yolculuk",
+     "tekne-turlari/rotalar",
      "tekne-turlari/ozel-tekne-turlari",
      "tekne-turlari/mehtap-turlari",
-     "tekne-turlari/yemekli-tekne-turlari"
+     "tekne-turlari/yemekli-tekne-turlari",
+     "tekne-turlari/fiyatlar"
     ]
    },
    {
@@ -58,6 +60,7 @@
      "destinasyonlar/gokova-koylari",
      "destinasyonlar/bodrum-limanlari",
      "destinasyonlar/bodrum-adalari",
+     "destinasyonlar/kocek-adasi",
      "destinasyonlar/yunan-adalari-turlari",
      "destinasyonlar/yamac-parasutu",
      "destinasyonlar/kisebuku",
