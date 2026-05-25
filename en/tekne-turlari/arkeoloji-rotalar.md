@@ -4,6 +4,8 @@ description: "Bodrum çevresindeki antik alanların çoğu turist akınıyla dol
 layout: "docs"
 ---
 
+<img src="/images/galeri/simge004.jpg" alt="Archaeology Routes" style={{borderRadius: "12px", marginBottom: "24px", width: "100%"}} />
+
 # Bodrum'un Denizden Keşfedilebilen Arkeolojik Rotaları
 
 Bodrum çevresindeki antik alanların çoğu turist akınıyla dolu ama bazı hazineler sadece denizden ulaşılabiliyor. Simge Yachting'in özel arkeoloji rotalarıyla, bu gizli tarihi alanı keşfedin.
