@@ -12,6 +12,15 @@
     "dark": "#040404"
   },
   "theme": "mint",
+  "footer": {
+    "socials": {
+      "instagram": "https://instagram.com/simgeyachting",
+      "facebook": "https://facebook.com/simgeyachting",
+      "x": "https://x.com/simgeyachting",
+      "website": "https://www.simgeyachting.com",
+      "email": "mailto:info@simgeyachting.com"
+    }
+  },
   "navigation": {
     "languages": [
       {
@@ -95,6 +104,10 @@
           {
             "tab": "İletişim",
             "pages": ["iletisim"]
+          },
+          {
+            "tab": "Duyurular",
+            "pages": ["blog/2026-sezonu-basliyor"]
           },
           {
             "tab": "Sözlük",
@@ -182,6 +195,10 @@
           {
             "tab": "Contact",
             "pages": ["en/iletisim"]
+          },
+          {
+            "tab": "Updates",
+            "pages": ["en/blog/2026-season-is-here"]
           },
           {
             "tab": "Glossary",
