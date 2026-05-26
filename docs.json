@@ -69,7 +69,9 @@
               "destinasyonlar/kocek-adasi",
               "destinasyonlar/yunan-adalari-turlari",
               "destinasyonlar/yamac-parasutu",
-              "destinasyonlar/cennet-koyu"
+              "destinasyonlar/cennet-koyu",
+              "destinasyonlar/yalikavak-gezilecek-yerler",
+              "destinasyonlar/turgutreis-cevre"
             ]
           },
           {
@@ -154,7 +156,9 @@
               "en/destinasyonlar/kocek-adasi",
               "en/destinasyonlar/yunan-adalari-turlari",
               "en/destinasyonlar/yamac-parasutu",
-              "en/destinasyonlar/cennet-koyu"
+              "en/destinasyonlar/cennet-koyu",
+              "en/destinasyonlar/yalikavak-gezilecek-yerler",
+              "en/destinasyonlar/turgutreis-cevre"
             ]
           },
           {
