@@ -105,8 +105,19 @@
             "pages": ["iletisim"]
           },
           {
-            "tab": "Duyurular",
-            "pages": ["blog/2026-sezonu-basliyor"]
+            "tab": "Blog",
+            "icon": "newspaper",
+            "pages": [
+              "blog/2026-sezonu-basliyor",
+              "blog/yat-kiralama-fiyatlari-2026",
+              "blog/yunan-adalari-vizesiz-tur",
+              "blog/mavi-yolculuk-rotalari",
+              "blog/yalikavak-rehberi",
+              "blog/bodrum-en-guzel-koylar",
+              "blog/hint-dugunu-organizasyonu",
+              "blog/tekne-turu-hazirlik-listesi",
+              "blog/cocuklu-aile-tekne-turu"
+            ]
           },
           {
             "tab": "Sözlük",
