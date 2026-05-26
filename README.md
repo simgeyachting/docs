@@ -8,11 +8,6 @@ Click on `Use this template` to copy the Mintlify starter kit. The starter kit c
 - API Reference pages
 - Use of popular components
 
-Run the following command at the root of your documentation (where docs.json is)
-
-```
-mint dev
-```
 
 ### Publishing Changes
 
