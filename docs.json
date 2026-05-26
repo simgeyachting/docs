@@ -207,8 +207,19 @@
             "pages": ["en/iletisim"]
           },
           {
-            "tab": "Updates",
-            "pages": ["en/blog/2026-season-is-here"]
+            "tab": "Blog",
+            "icon": "newspaper",
+            "pages": [
+              "en/blog/2026-season-is-here",
+              "en/blog/yat-kiralama-fiyatlari-2026",
+              "en/blog/yunan-adalari-vizesiz-tur",
+              "en/blog/mavi-yolculuk-rotalari",
+              "en/blog/yalikavak-rehberi",
+              "en/blog/bodrum-en-guzel-koylar",
+              "en/blog/hint-dugunu-organizasyonu",
+              "en/blog/tekne-turu-hazirlik-listesi",
+              "en/blog/cocuklu-aile-tekne-turu"
+            ]
           },
           {
             "tab": "Glossary",
