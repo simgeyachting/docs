@@ -2,6 +2,7 @@
 title: "Bodrum'un Denizden Keşfedilebilen Arkeolojik Rotaları"
 description: "Bodrum çevresindeki antik alanların çoğu turist akınıyla dolu ama bazı hazineler sadece denizden ulaşılabiliyor. Simge Yachting'in özel arkeoloji rotalarıyla, bu gizli tarihi alanı keşfedin."
 layout: "docs"
+canonical: https://simgeyachting.com/turlar
 ---
 
 ![Archaeology Routes](/images/galeri/simge004.jpg)

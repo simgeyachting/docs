@@ -2,6 +2,7 @@
 title: "Ancient Sites by Sea | Archaeological Boat Tours from Bodrum"
 description: "Discover hidden ancient sites accessible only by sea. Simge Yachting's exclusive archaeological boat tours reveal Bodrum's historical treasures."
 layout: "docs"
+canonical: https://simgeyachting.com/turlar
 ---
 
 <img src="/images/galeri/simge004.jpg" alt="Archaeology Routes" style={{borderRadius: "12px", marginBottom: "24px", width: "100%"}} />
